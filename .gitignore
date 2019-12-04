@@ -12,3 +12,9 @@ D2/input.txt
 D2/obj/Debug/D2.csproj.FileListAbsolute.txt
 D2/Program.cs
 D2/Properties/AssemblyInfo.cs
+D3/.vs/D3/v16/.suo
+D3/D3.csproj.user
+D3/obj/Debug/D3.csproj.FileListAbsolute.txt
+D3/output.txt
+D3/Properties/AssemblyInfo.cs
+*.pyproj
