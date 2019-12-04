@@ -5,3 +5,5 @@ My Advent of Code 2019 solutions
 SciLab script
 ## Day 2
 C#
+## Day 3
+C#
